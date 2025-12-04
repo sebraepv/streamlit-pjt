@@ -30,19 +30,15 @@ lista_projetos = df['projeto'].unique()
 
 
 # Abas do App
-tab_data, tab_contagem, tab_prazos = st.tabs(['Dados', 'Status de Entregas', 'Lista de Projetos'])
+tab_data, tab_contagem, tab_prazos = st.tabs(['Dados', 'Status de Entregas', 'Entregas por Dia'])
 
 with tab_data:
-    # date = st.date_input(
-    #     "Prazo de Entrega",
-    #     min_value=df['dt_entrega'].min(),
-    #     max_value=df['dt_entrega'].max()
-    # )
     st.dataframe(df)
 
 with tab_contagem:
     st.bar_chart(qtd_status)
 
 with tab_prazos:
-    st.dataframe(lista_projetos, hide_index=True)
+    df_data = df.groupby(by="dt_entrega")[['entrega']].count()
+    st.dataframe(df_data)
     # st.bar_chart(entregas_dia)
