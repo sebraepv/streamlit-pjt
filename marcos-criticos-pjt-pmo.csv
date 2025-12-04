@@ -1,0 +1,288 @@
+﻿id;nome;gerencia;projeto;entrega;descricao_entrega;prazo_entrega;status;dt_entrega
+2;Keylla Thais Signorelli;GGE;GGE - Centro de Inteligência;Entrega 1;Contratação empresa especializada para a reformulação do portal do Observatório.;15/09/2025;Finalizado dentro do Prazo;15/09/2025
+2;Keylla Thais Signorelli;GGE;GGE - Centro de Inteligência;Entrega 2;Elaboração do caderno de mapeamento das tendências para os negócios em 2026.;31/10/2025;Finalizado dentro do Prazo;31/10/2025
+2;Keylla Thais Signorelli;GGE;GGE - Centro de Inteligência;Entrega 3;Entrega da ferramenta (BI) de Mapeamento de Megatendencias para os Pequenos Negócios Catarinenses.;28/11/2025;Em andamento;
+3;Keylla Thais Signorelli;GGE;GGE - Cultura Analítica;Entrega 1;Reunião de sensibilização do projeto de Cultura Analítica (etapa alfabetização de dados), em parceria com a GRH e GTI.;24/09/2025;Finalizado no Prazo;24/09/2025
+3;Keylla Thais Signorelli;GGE;GGE - Cultura Analítica;Entrega 2;Finalização das entrevistas com o grupo focal da etapa de alfabetização de dados.;26/09/2025;Finalizado no Prazo;26/09/2025
+3;Keylla Thais Signorelli;GGE;GGE - Cultura Analítica;Entrega 3;Aplicação do Assessment com todos os colaboradores do Sebrae/SC.;24/10/2025;Finalizado no Prazo;24/10/2025
+4;Keylla Thais Signorelli;GGE;SC - Impulsionador Inteligência de Dados (IT Score CDAO);Entrega 1;Projeto será descontinuado, pois este ano não houve nenhuma entrega, uma vez que as ações foram concentradas no projeto de Cultura Analítica.;03/10/2025;Finalizado no Prazo;03/10/2025
+5;Thuany Ribeiro De Oliveira;GDT;SC - Pró-Catadores;Entrega 1;As ações das regionais com foco em consultorias especializadas, baseadas nas ferramentas da metodologia, já estão em andamento. Atualmente, cerca de 90% das consultorias estão contratadas, enquanto o percentual restante segue em fase de desdobramento junto às regionais para definição e execução.;30/11/2025;Em andamento;
+5;Thuany Ribeiro De Oliveira;GDT;SC - Pró-Catadores;Entrega 3;Aplicação dos diagnósticos de inclusão e realização da missão técnica. A maior parte das contratações já foi efetivada, porém houve dificuldades no painel para demonstrar o comprometimento dessas ações.;01/12/2025;Em andamento;
+5;Thuany Ribeiro De Oliveira;GDT;SC - Pró-Catadores;Entrega 2;Aplicação de oficinas comportamentais voltadas a públicos em situação de vulnerabilidade. A previsão é concluir, até o final do mês de setembro, todas as contratações necessárias para a realização dessas oficinas.;08/12/2025;Em andamento;
+6;Thuany Ribeiro De Oliveira;GDT;SC – Cidade Empreendedora - Inclusão Socioprodutiva;Entrega 1;As ações sociais das regionais estão em andamento, com a maioria das contratações já efetivadas, em execução e com alguns compromissos em fase de comprometimento.;30/11/2025;Em andamento;
+6;Thuany Ribeiro De Oliveira;GDT;SC – Cidade Empreendedora - Inclusão Socioprodutiva;Entrega 2;As oficinas de inclusão com foco em temas comportamentais estão em andamento, com previsão de finalizar todas as contratações ainda neste mês.;01/12/2025;Em andamento;
+6;Thuany Ribeiro De Oliveira;GDT;SC – Cidade Empreendedora - Inclusão Socioprodutiva;Entrega 3;Entre as principais entregas, destacam-se o diagnóstico de inclusão e o respectivo plano de ação, que agora avançam para a fase de execução integrada do conjunto de atividades previstas.;15/12/2025;Em andamento;
+7;Filipi Andrade;GCP;GCP - Setorial Agro Ovinocaprinocultura SC;Entrega 2;Realizar a seleção dos novos participantes do projeto baseados na matriz de critérios estabelecidos pelo corpo técnico.;10/12/2025;Em andamento;
+7;Filipi Andrade;GCP;GCP - Setorial Agro Ovinocaprinocultura SC;Entrega 1;Contratação de uma pesquisa de mercado via SGF.;10/12/2025;Em andamento;
+7;Filipi Andrade;GCP;GCP - Setorial Agro Ovinocaprinocultura SC;Entrega 3;Contratação de atendimento via SEBRAETEC - Boas práticas na pecuária de Leite e Corte, voltada para o atendimento dos produtores de ovinos do projeto.;10/12/2025;Em andamento;
+8;Filipi Andrade;GCP;GCP - Agronegócios - ATeG Rural;Entrega 3;Contratação para atendimento de 30 produtores do Planalto Norte de SC via SEBRAETEC - boas práticas na pecuária de leite e corte.;01/09/2025;Finalizado no Prazo;01/09/2025
+8;Filipi Andrade;GCP;GCP - Agronegócios - ATeG Rural;Entrega 2;Contratação para melhoria genética via Sebraetec de 4 produtores de ovinos do Alto Vale.;08/09/2025;Finalizado no Prazo;08/09/2025
+8;Filipi Andrade;GCP;GCP - Agronegócios - ATeG Rural;Entrega 1;Realizar a contratação para o Evento de capacitação dos técnicos do ATEG Rural.;20/11/2025;Em andamento;10/11/2025
+9;Jackson André da Silva;GCP;GCP - Programa Empreender;Entrega 1;Finalizar as consultorias de apoio aos núcleos empresariais.;15/11/2025;Em andamento;
+9;Jackson André da Silva;GCP;GCP - Programa Empreender;Entrega 2;Finalizar os treinamentos e consultorias do PAN - Programa de Aceleração dos Núcleos.;01/12/2025;Em andamento;
+9;Jackson André da Silva;GCP;GCP - Programa Empreender;Entrega 3;Entregar o Podium, reconhecimento às associações que mais se envolveram na execução do Programa Empreender, durante o evento Celebra FACISC.;05/12/2025;Em andamento;
+10;Patrícia Azevedo de Oliveira Mattos;GCP;GCP - Economia Azul Catarinense;Entrega 1;Realizar capacitação dos empreendedores azuis sobre: Precificação 4h, Atendimento 4h e Manipulação de alimentos 4h.;17/11/2025;Em andamento;
+10;Patrícia Azevedo de Oliveira Mattos;GCP;GCP - Economia Azul Catarinense;Entrega 2;Contratar e realizar capacitação para os empreendedores da indústria náutica;17/11/2025;Em andamento;
+10;Patrícia Azevedo de Oliveira Mattos;GCP;GCP - Economia Azul Catarinense;Entrega 3;Finalizar a T0 e realizar a TFinal;12/12/2025;Em andamento;
+11;Edgar Junior;GDT;SC - Cidade Empreendedora;Entrega 1;Contratualização com os municípios - dos 170 municípios 167 já assinaram contrato.;30/09/2025;Finalizado no Prazo;30/09/2025
+11;Edgar Junior;GDT;SC - Cidade Empreendedora;Entrega 2;Contratação das equipes de consultores para os eixos: simplificação, compras públicas, sala do empreendedor, articulação e ADs e de inclusão socioprodutiva.;30/09/2025;Finalizado no Prazo;30/09/2025
+11;Edgar Junior;GDT;SC - Cidade Empreendedora;Entrega 3;Dar início oficial as ações do Cidade Empreendedora nos municípios contratantes.;31/10/2025;Finalizado até 30 dias;07/11/2025
+12;Fernando Michel Wilhelms;GCM;GCO - Gestão da Comunicação Integrada de Marketing;Entrega 1;Campanha Publicitária Regionais;31/12/2025;Em andamento;
+12;Fernando Michel Wilhelms;GCM;GCO - Gestão da Comunicação Integrada de Marketing;Entrega 2;Patrocínios;31/12/2025;Finalizado no Prazo;31/10/2025
+12;Fernando Michel Wilhelms;GCM;GCO - Gestão da Comunicação Integrada de Marketing;Entrega 3;Estúdio de produção (compra de equipamentos, espuma acústica e equipe de produção);31/12/2025;Em andamento;
+13;Fernando Michel Wilhelms;GCM;GCO - Gestão da Marca;Entrega 1;Execução financeira;16/12/2025;Em andamento;
+13;Fernando Michel Wilhelms;GCM;GCO - Gestão da Marca;Entrega 2;Acompanhamento e aprovação de pautas;31/12/2025;Em andamento;
+13;Fernando Michel Wilhelms;GCM;GCO - Gestão da Marca;Entrega 3;Execução do projeto junto a agência e veículo de mídia;31/12/2025;Em andamento;
+14;Rafael Medeiros Gallo;GCP;GCP - Fortalecimento do Comércio e Serviços Catarinense;Entrega 1;Realizar a mensuração do aumento de indicador de faturamento das empresas participantes do Programa Lucra Mais 2025;15/11/2025;Em andamento;
+14;Rafael Medeiros Gallo;GCP;GCP - Fortalecimento do Comércio e Serviços Catarinense;Entrega 2;Realizar a mensuração do aumento de indicador de lucratividade das empresas participantes do Programa Lucra Mais 2025;15/11/2025;Em andamento;
+14;Rafael Medeiros Gallo;GCP;GCP - Fortalecimento do Comércio e Serviços Catarinense;Entrega 3;Realizar a mensuração de NPS das empresas participantes do Programa Lucra Mais 2025.;15/11/2025;Em andamento;
+15;Ike Basilio Lopes;GIS;GIS - Inovação para Pequenos Negócios;Entrega 1;Contratar Equipe de instrutores para o IA para Negócios e montar campanha de divulgação - Edição Florianópolis (06/11);03/10/2025;Finalizado no Prazo;03/10/2025
+15;Ike Basilio Lopes;GIS;GIS - Inovação para Pequenos Negócios;Entrega 2;Aplicar capacitação do programa para pelo menos 80 empresários.;10/11/2025;Finalizado dentro do Prazo;10/11/2025
+15;Ike Basilio Lopes;GIS;GIS - Inovação para Pequenos Negócios;Entrega 3;Consolidar resultados do Evento Imersão IA para Negócios - Edição Florianópolis.;14/11/2025;Finalizado dentro do Prazo;10/11/2025
+16;Paulo Menezes Rubin;GRE;GRE - Agente Local de Inovação - Produtividade;Entrega 3;Acompanhar Rotatividade de Agentes e Empresas desistentes;30/10/2025;Finalizado no Prazo;30/10/2025
+16;Paulo Menezes Rubin;GRE;GRE - Agente Local de Inovação - Produtividade;Entrega 2;Acompanhar e analisar empresas mensuradas - T0 (julho) e TF (novembro);30/11/2025;Em andamento;
+16;Paulo Menezes Rubin;GRE;GRE - Agente Local de Inovação - Produtividade;Entrega 1;Realizar acompanhamento do cronograma de entregáveis com Consultores Seniores até 15/12 - semanal;15/12/2025;Finalizado dentro do Prazo;30/10/2025
+17;Paulo Menezes Rubin;GRE;GRE - Agente Local de Inovação Rural;Entrega 1;Adesão de Produtores Rurais para as vagas ofertadas;10/10/2025;Finalizado no Prazo;10/10/2025
+17;Paulo Menezes Rubin;GRE;GRE - Agente Local de Inovação Rural;Entrega 2;Atração de Agentes no edital 02.25 para vagas não preenchidas;28/11/2025;Em andamento;
+17;Paulo Menezes Rubin;GRE;GRE - Agente Local de Inovação Rural;Entrega 3;Acompanhamento do cronograma de entregáveis do Ciclo com consultores Seniores;12/12/2025;Em andamento;
+18;Angela Maria Pinheiro;GRE;GRE - Agente de Orientação Empresarial;Entrega 1;Reunião de alinhamento com consultores para fechar a cobertura de 100% dos municípios de SC;01/10/2025;Finalizado no Prazo;01/10/2025
+18;Angela Maria Pinheiro;GRE;GRE - Agente de Orientação Empresarial;Entrega 2;Monitorar e se for o caso remanejar recursos do projeto visando o atingimento das metas de atendimento.;14/10/2025;Em andamento;
+18;Angela Maria Pinheiro;GRE;GRE - Agente de Orientação Empresarial;Entrega 3;Apresentar relatório de encerramento do projeto no ano de 2025.;17/12/2025;A fazer;
+19;Ana Paula Batista da Cunha Andrade;GDT;GDT - Educação que Transforma;Entrega 1;Contratação da infraestrutura e palestrantes para realizar o Seminário Estadual de Educação.;03/10/2025;Finalizado dentro do Prazo;03/10/2025
+19;Ana Paula Batista da Cunha Andrade;GDT;GDT - Educação que Transforma;Entrega 2;Realização do Seminário Estadual de Educação, entrega do eixo 6 (Empreendedorismo da Escola) do programa Cidade Empreendedora.;08/10/2025;Finalizado dentro do Prazo;06/10/2025
+19;Ana Paula Batista da Cunha Andrade;GDT;GDT - Educação que Transforma;Entrega 3;Relatório final do programa Educação Empreendedora com os dados de atendimento realizados no ano de 2025: cobertura de estudantes e recorrência de profissionais de educação.;10/12/2025;Em andamento;
+20;Luiza Helena Jonck Pedroso;GIS;GIS - Jornada do Empreendedorismo Inovador - Tração;Entrega 2;Last Day do Programa Startup SC;24/10/2025;Finalizado no Prazo;24/10/2025
+20;Luiza Helena Jonck Pedroso;GIS;GIS - Jornada do Empreendedorismo Inovador - Tração;Entrega 1;Missão Web Summit Lisboa;28/11/2025;Em andamento;24/10/2025
+20;Luiza Helena Jonck Pedroso;GIS;GIS - Jornada do Empreendedorismo Inovador - Tração;Entrega 3;Reformulação do Programa Startup SC;12/12/2025;Em andamento;
+21;Luciana Oda;GIS;GIS - Polo de Inovação em Startups;Entrega 3;OKR 5: Fortalecer a governança do Polo de Referência em Startups para garantir o alinhamento com a Estratégia Nacional de Polos de Referência até dezembro de 2025.;28/11/2025;Em andamento;05/11/2025
+21;Luciana Oda;GIS;GIS - Polo de Inovação em Startups;Entrega 1;Sobre o OKR 1: Implementar um sistema de gestão de inovação territorial (ELI/Ativa)  adotado por 80% dos gestores estaduais até dezembro de 2025, temos 2 KR previstos;05/12/2025;Finalizado no Prazo;05/11/2025
+21;Luciana Oda;GIS;GIS - Polo de Inovação em Startups;Entrega 2;Sobre o OKR 3 : Aumentar a usabilidade das plataformas Programas, Observatório e Vitrine Sebrae Startups com a implementação de 10 novas funcionalidades até dezembro/2025, temos previstos mais 3 KR de outubro a dezembro;05/12/2025;Finalizado no Prazo;05/11/2025
+22;Gabriel Marchetti de Oliveira;GCP;GCP - PEIEX Santa Catarina;Entrega 1;Realizar contratação de mais 5 técnicos PEIEX para os núcleos de Criciúma (3), Chapecó (1) e Joinville (1) para equilibrar o número de atendimentos a MPEs.;24/10/2025;A fazer;
+22;Gabriel Marchetti de Oliveira;GCP;GCP - PEIEX Santa Catarina;Entrega 2;Monitorar as atividades dos responsáveis pelos núcleos PEIEX para garantir o número de 30 atendimentos/núcleo.;14/11/2025;Em andamento;
+22;Gabriel Marchetti de Oliveira;GCP;GCP - PEIEX Santa Catarina;Entrega 3;Realizar pesquisa de avaliação com todas as empresas efetivamente atendidas em 2025;12/12/2025;A fazer;
+23;Luiz Silva;GRNO;GRNO - Sebrae moveleiro São Bento do Sul;Entrega 1;Desenvolvimento do foresight;31/03/2025;Finalizado no Prazo;31/03/2025
+23;Luiz Silva;GRNO;GRNO - Sebrae moveleiro São Bento do Sul;Entrega 2;Missão empresarial internacional chine;22/10/2025;Finalizado no Prazo;22/10/2025
+23;Luiz Silva;GRNO;GRNO - Sebrae moveleiro São Bento do Sul;Entrega 3;Desenvolvimento IG móveis de madeira Maciça;19/12/2025;Em andamento;
+24;Luiz Silva;GRNO;GRNO - SC - Atendimento Territorial - São Bento do Sul;Entrega 1;Consultoria empresarial;19/12/2025;Em andamento;
+24;Luiz Silva;GRNO;GRNO - SC - Atendimento Territorial - São Bento do Sul;Entrega 2;Instrutoria empresarial;19/12/2025;Finalizado no Prazo;30/10/2025
+24;Luiz Silva;GRNO;GRNO - SC - Atendimento Territorial - São Bento do Sul;Entrega 3;Acesso a mercado;19/12/2025;Finalizado no Prazo;30/10/2025
+25;Cintia Marina Bortolin Longo;GRH;GRH - Gestão de Carreira e Performance;Entrega 1;Entregas das metas individuais e equipes;14/11/2025;Em andamento;
+25;Cintia Marina Bortolin Longo;GRH;GRH - Gestão de Carreira e Performance;Entrega 2;Contratação do auditor externo para validar as metas das equipes.;31/12/2025;Em andamento;
+25;Cintia Marina Bortolin Longo;GRH;GRH - Gestão de Carreira e Performance;Entrega 3;Contratação do sistema da TOTVS para suportar o subsistema do GRH;31/12/2025;Em andamento;
+26;Daniel Rebhaim da Silva;GMS;GMS - Inteligência Comercial;Entrega 2;Projeto: Data Persona ME;31/10/2025;Em andamento;
+26;Daniel Rebhaim da Silva;GMS;GMS - Inteligência Comercial;Entrega 3;Parceria em mercados digitais;06/11/2025;Finalizado no Prazo;05/11/2025
+26;Daniel Rebhaim da Silva;GMS;GMS - Inteligência Comercial;Entrega 1;Primeiro entregável: Acompanhamento equipe de Inside Sales:;31/12/2025;Finalizado dentro do Prazo;05/11/2025
+27;Antônio Rafael Pachechne;GRVA;GRVA - Inovação Territorial e Empreendedorismo Inovador – Blumenau e Rio do Sul;Entrega 1;Missão Técnica ELI Summit Nacional - Natal/RN;07/11/2025;Em andamento;
+27;Antônio Rafael Pachechne;GRVA;GRVA - Inovação Territorial e Empreendedorismo Inovador – Blumenau e Rio do Sul;Entrega 2;"Startup Garage Timbó - Realizar os 09 Workshops do Programa Startup Garage na cidade de Timbó, com os seguintes objetivos: Fortalecer o ecossistema de empreendedorismo na cidade, oferecendo aos participantes um ambiente favorável à criação de startups; estimular os participantes a desenvolverem o espírito empreendedor; proporcionar condições e suporte para que novos negócios viáveis sejam estruturados.";05/12/2025;Em andamento;
+27;Antônio Rafael Pachechne;GRVA;GRVA - Inovação Territorial e Empreendedorismo Inovador – Blumenau e Rio do Sul;Entrega 3;Pré-Incubação em parceria com o Instituto Gene;05/12/2025;Em andamento;
+28;Alcides Filho;GRGF;GRGF - Construção Civil;Entrega 3;Capacitação para escritórios de Arquitetura e Engenharia do Vale Rio Tijucas;28/11/2025;Finalizado no Prazo;05/11/2025
+28;Alcides Filho;GRGF;GRGF - Construção Civil;Entrega 1;Sebraetec - Teste de emissão atmosférica e testes de laboratórios dos tijolos e telhas.;05/12/2025;Em andamento;
+28;Alcides Filho;GRGF;GRGF - Construção Civil;Entrega 2;Missão empresarial - Boas praticas de cerâmicas vermelhas e novos processos de produção. Cascavel Paraná.;05/12/2025;Em andamento;05/11/2025
+29;Marina Barbieri;GPE;GPE - Sebrae Delas - Estadual;Entrega 1;Publicação Trilha Assíncrona Caminho do Meu Negócio;31/10/2025;Em andamento;
+29;Marina Barbieri;GPE;GPE - Sebrae Delas - Estadual;Entrega 2;Trilha Assíncrona Destino Empresária de Sucesso;31/10/2025;Em andamento;
+29;Marina Barbieri;GPE;GPE - Sebrae Delas - Estadual;Entrega 3;Delas Day (nível estadual);18/11/2025;Em andamento;
+30;Karla Cristina Tavares de Souza;GRGF;GRGF - Sebrae Varejo - Florianópolis;Entrega 1;Palestra - A Magia da Disney - Primeira ação da parceria com a entidade ACIF, reunindo todos os empresários do Projeto e a comunidade empreendedora para falar sobre a importância da experiência do Cliente para os micro e pequenos negócios de Varejos;17/06/2025;Finalizado no Prazo;17/06/2025
+30;Karla Cristina Tavares de Souza;GRGF;GRGF - Sebrae Varejo - Florianópolis;Entrega 2;Missão Feira do Empreendedor e São Paulo Feshion Week. Integração entre empresários de Varejo e Moda, possibilitando expansão de mercado e conexões entre os projetos;14/10/2025;Finalizado no Prazo;14/10/2025
+30;Karla Cristina Tavares de Souza;GRGF;GRGF - Sebrae Varejo - Florianópolis;Entrega 3;Evento de encerramento com premiação das empresas mais engajadas, palestra sobre o futuro do Varejo com o CEO da Chilie beans Caito Maia e desfile das empresas de moda e varejo de moda.;12/11/2025;A fazer;
+33;Natália Amante Santos Regis;GMS;GMS - Gestão de Soluções;Entrega 1;João do Portfólio - Ferramenta de IA que ajuda as agências e gerências no atendimento às micro e pequenas empresas na busca da solução mais aderente a necessidade do cliente.;30/11/2025;Em andamento;
+33;Natália Amante Santos Regis;GMS;GMS - Gestão de Soluções;Entrega 2;"Desenvolvimento completo de três soluções educacionais voltadas para micro e pequenos empresários, contemplando metodologias práticas e aplicáveis nas áreas de vendas pelo WhatsApp, posicionamento e conversão no Instagram, e geração de resultados com Tráfego Pago. Cada curso tem como finalidade capacitar empreendedores no uso de ferramentas digitais de forma estratégica, garantindo resultados imediatos e mensuráveis em seus negócios. As entregas previstas incluem o Manual de Operacionalização da Solução, contendo guia do facilitador, roteiro detalhado dos módulos, timing das atividades e técnicas de facilitação; o Plano de Aplicação, com a estratégia completa de implementação da solução na rede Sebrae; e o Livro do Participante, material didático em formato de workbook interativo com exercícios práticos, espaços para anotações, checklists e templates prontos para uso. Além disso, será realizado o Repasse da Metodologia para a Rede de Credenciados, assegurando a capacitação dos multiplicadores do Sebrae por...";30/11/2025;Em andamento;
+33;Natália Amante Santos Regis;GMS;GMS - Gestão de Soluções;Entrega 3;Acompanhamento dos facilitadores do Lidere que vieram com recomendações no processo de certificação, conforme orientação da UC Sebrae e Gestor Nacional da Solução. Garantindo a melhor entrega por parte da rede credenciada aos clientes Sebrae;17/12/2025;Em andamento;
+34;Mariana Peluso;GMS;GMS - Gestão de Fornecedores;Entrega 1;Encontros presenciais da rede de credenciados em 6 cidades, fortalecendo a conexão entre fornecedores e Sebrae.;31/10/2025;Finalizado no Prazo;31/10/2025
+34;Mariana Peluso;GMS;GMS - Gestão de Fornecedores;Entrega 2;Certificação do Potencialize em SP, formando consultores aptos a aplicar a nova solução, em substituição do PGA.;30/11/2025;A fazer;
+34;Mariana Peluso;GMS;GMS - Gestão de Fornecedores;Entrega 3;Capacitação dos gestores do Empretec, para alinhamentos acerca da nova metodologia, reduzida para 5 dias, garantindo a virada para 2026.;30/11/2025;A fazer;
+35;Robson Bruno Borges Sartor;GRSE;GRSE - Fortalecimento da Pequena Indústria da Serra;Entrega 2;Desenvolvimento e execução de ações de sensibilização junto ao setor, com o objetivo de atrair e prospectar novas empresas para participarem do projeto de fortalecimento da pequena indústria no ano de 2026.;20/11/2025;Em andamento;
+35;Robson Bruno Borges Sartor;GRSE;GRSE - Fortalecimento da Pequena Indústria da Serra;Entrega 1;Realização do mapeamento dos projetos em andamento, com acompanhamento contínuo das ações por meio de reuniões, ligações e mensagens semanais com os consultores para verificar o andamento dos atendimentos, identificar dificuldades e apoiar quando necessário.;05/12/2025;Em andamento;
+35;Robson Bruno Borges Sartor;GRSE;GRSE - Fortalecimento da Pequena Indústria da Serra;Entrega 3;Aplicação de pesquisa TF junto às empresas participantes para mensurar os resultados alcançados após a participação no projeto, avaliando melhorias em gestão, processos e desempenho empresarial.;10/12/2025;Em andamento;
+36;Deborah Aurea Fernandes Batalha;GRE;GRE - Atendimento Remoto - Estadual;Entrega 3;Disponibilizar e-mails técnicos da Jornada de Relacionamento;15/10/2025;Finalizado no Prazo;05/11/2025
+36;Deborah Aurea Fernandes Batalha;GRE;GRE - Atendimento Remoto - Estadual;Entrega 2;Produzir conteúdos estratégicos em formato de e-book e planilhas;22/10/2025;Finalizado no Prazo;22/10/2025
+36;Deborah Aurea Fernandes Batalha;GRE;GRE - Atendimento Remoto - Estadual;Entrega 1;Executar campanhas digitais com foco em vídeos;10/11/2025;Finalizado no Prazo;15/10/2025
+37;Gislaine Kaleski Ignaczuk;GTI;GTI - Gestão e Melhoria de Processos;Entrega 1;Melhoria no processo de missão nacional - com automatização do processo;10/10/2025;Finalizado no Prazo;10/10/2025
+37;Gislaine Kaleski Ignaczuk;GTI;GTI - Gestão e Melhoria de Processos;Entrega 2;Melhoria no processo de pagamento de credenciados - abertura pelo fornecedor;07/11/2025;Em andamento;
+37;Gislaine Kaleski Ignaczuk;GTI;GTI - Gestão e Melhoria de Processos;Entrega 3;Melhorias no processo de facilitação de acesso ao crédito;30/11/2025;Em andamento;
+38;Bruno Rodrigues da Cunha;GRGF;GRGF - Economia Criativa;Entrega 2;Como parte da mobilização de atores, será organizada e entregue a lista final de inscritos e confirmados para o Workshop I – Diagnóstico do Ecossistema. Esse registro garantirá a rastreabilidade dos convites enviados, dos contatos realizados e das confirmações recebidas.;10/11/2025;Em andamento;
+38;Bruno Rodrigues da Cunha;GRGF;GRGF - Economia Criativa;Entrega 1;Entrega 1 – Lista de Stakeholders Estratégicos;05/12/2025;Em andamento;
+38;Bruno Rodrigues da Cunha;GRGF;GRGF - Economia Criativa;Entrega 3;Será elaborado e entregue um relatório preliminar do diagnóstico do ecossistema de Economia Criativa, contendo gráficos, tabelas e análises iniciais obtidas a partir do levantamento de dados secundários. Esse documento servirá de base para discussão e validação no Workshop I.;10/12/2025;A fazer;
+39;Carine Ribeiro;GREO;GROE - Desenvolvimento Cadeia do Leite - SMO;Entrega 1;Assinar contrato com a empresa Lactalis e contratar Consultoria Tecnológica para atender 22 produtores.;30/09/2025;Não Informado;
+39;Carine Ribeiro;GREO;GROE - Desenvolvimento Cadeia do Leite - SMO;Entrega 2;Contratar Consultoria Tecnológica - IATF, para atender 34 produtores da Laticínio Porto Novo e da COOAFI.;17/10/2025;Não Informado;
+39;Carine Ribeiro;GREO;GROE - Desenvolvimento Cadeia do Leite - SMO;Entrega 3;Efetuar a venda da Consultoria Tecnológica para os 34 produtores que serão atendidos com IATF, fechando a receita do Projeto.;31/10/2025;Não Informado;
+40;Tayana Santos;GMS;GMS - Apoio a missões internacionais;Entrega 1;Missão Internacional Intertextile;29/09/2025;Finalizado no Prazo;29/09/2025
+40;Tayana Santos;GMS;GMS - Apoio a missões internacionais;Entrega 3;Descrição da Entrega – Missão Internacional FIT Argentina 2025;02/10/2025;Finalizado no Prazo;21/10/2025
+40;Tayana Santos;GMS;GMS - Apoio a missões internacionais;Entrega 2;Descrição da Entrega – Missão Internacional Canton Fair 2025;21/10/2025;Finalizado no Prazo;02/10/2025
+41;Sérgio Pereira;GMS;GMS - Gestão do Portfólio Sebraetec;Entrega 2;Implantação da funcionalidade de georreferenciamento no sistema de gestão do Sebraetec;31/10/2025;Em andamento;
+41;Sérgio Pereira;GMS;GMS - Gestão do Portfólio Sebraetec;Entrega 3;Apresentar plano estruturado de auditoria técnica e fiscalização sobre as consultorias Sebraetec;31/10/2025;Em andamento;
+41;Sérgio Pereira;GMS;GMS - Gestão do Portfólio Sebraetec;Entrega 1;Levantar indicadores de impacto (T0 e T1) junto às MPEs atendidas pelo Sebraetec para aprimorar os atendimentos realizados e reforçar a imagem do Sebrae como agente promotor do desenvolvimento, por intermédio da coleta e medição de indicadores de satisfação e impacto dos clientes atendidos pelo Sebraetec de forma automatizada no sistema informatizado.;14/11/2025;Em andamento;
+42;Sabrina da Rocha;GIS;GIS - Startup Summit;Entrega 1;Atingir a Recomendação NPS de 70 pontos;30/10/2026;Finalizado no Prazo;30/10/2025
+42;Sabrina da Rocha;GIS;GIS - Startup Summit;Entrega 2;Atender até 25 mil clientes atendidos presencial e online (PF e PJ);30/10/2026;Finalizado no Prazo;30/10/2025
+42;Sabrina da Rocha;GIS;GIS - Startup Summit;Entrega 3;Atingir até 7 milhões de receita;30/10/2026;Em andamento;
+43;Celso Orlando Pirmann;GRNO;GRNO - SC - Atendimento Territorial - Joinville;Entrega 1;Palestra magna do PGA;01/10/2025;Finalizado no Prazo;01/10/2025
+43;Celso Orlando Pirmann;GRNO;GRNO - SC - Atendimento Territorial - Joinville;Entrega 3;Encerramento do PGA;04/11/2025;Em andamento;
+43;Celso Orlando Pirmann;GRNO;GRNO - SC - Atendimento Territorial - Joinville;Entrega 2;Curso de liderança corporativa;11/12/2025;Em andamento;
+44;Nahyra Nara Santoro Javarini;GRSE;GRSE - SC - Atendimento Territorial - Lages;Entrega 3;Participar de uma importante feira local (Expolages), como expositor, apresentando o Sebrae/SC e suas soluções, a fim de fortalecer a marca e prospectar demandas de clientes.;20/10/2025;Finalizado no Prazo;20/10/2025
+44;Nahyra Nara Santoro Javarini;GRSE;GRSE - SC - Atendimento Territorial - Lages;Entrega 2;Realizar uma palestra de grande público a fim de gerar novas conexões com as empresas da região, fortalecer parcerias e a marca da Instituição.;28/11/2025;Finalizado no Prazo;05/11/2025
+44;Nahyra Nara Santoro Javarini;GRSE;GRSE - SC - Atendimento Territorial - Lages;Entrega 1;Aumentar o volume de recursos direcionados para os municípios de menor IDH do território da serra, em comparação ao ano de 2024.;22/12/2025;Finalizado dentro do Prazo;20/10/2025
+45;Amanda Matos Marcilio;GRSU;GRSU - Inovação Territorial e Empreendedorismo Inovador - Sul;Entrega 1;Apresentar relatórios consolidados das consultorias especializadas conduzidas pelos ecossistemas, assegurando que 100% das contratações estejam concluídas até 15/12/2025.;15/12/2025;Em andamento;
+45;Amanda Matos Marcilio;GRSU;GRSU - Inovação Territorial e Empreendedorismo Inovador - Sul;Entrega 2;Atuar nas reuniões de governança do Ecossistema de Inovação.;15/12/2025;Em andamento;
+45;Amanda Matos Marcilio;GRSU;GRSU - Inovação Territorial e Empreendedorismo Inovador - Sul;Entrega 3;Contribuir nas revisões do planejamento do Ecossistema de Inovação.;15/12/2025;Em andamento;
+46;Amanda Matos Marcilio;GRSU;GRSU - Inovação Territorial e Empreendedorismo Inovador - Tubarão;Entrega 1;Entregar relatórios consolidado das consultorias especializadas realizadas pelos ecossistemas, com 100% das contratações efetivadas até 15/12/2025;15/12/2025;Em andamento;
+46;Amanda Matos Marcilio;GRSU;GRSU - Inovação Territorial e Empreendedorismo Inovador - Tubarão;Entrega 2;"Participação nas reuniões de governança do Ecossistema de Inovação;";15/12/2025;Em andamento;
+46;Amanda Matos Marcilio;GRSU;GRSU - Inovação Territorial e Empreendedorismo Inovador - Tubarão;Entrega 3;Participação nas revisões do planejamento do Ecossistema de Inovação;15/12/2025;Em andamento;
+47;Luciane Paes Scheuermann;GRFO;GRFO FOZ - INOVAÇÃO TERRITORIAL E EMPREENDEDORISMO INOVADOR – TERRITÓRIO BRUSQUE;Entrega 1;Startup Weekend - Brusque - 23-24 e 25/05;25/05/2025;Finalizado no Prazo;25/05/2025
+47;Luciane Paes Scheuermann;GRFO;GRFO FOZ - INOVAÇÃO TERRITORIAL E EMPREENDEDORISMO INOVADOR – TERRITÓRIO BRUSQUE;Entrega 3;IA Para pequenos Negócios;09/09/2025;Finalizado no Prazo;27/09/2025
+47;Luciane Paes Scheuermann;GRFO;GRFO FOZ - INOVAÇÃO TERRITORIAL E EMPREENDEDORISMO INOVADOR – TERRITÓRIO BRUSQUE;Entrega 2;Startup Garage;27/09/2025;Finalizado no Prazo;09/09/2025
+48;João Novakoski;GRNO;GRNO - Turismo Regional Norte 2025;Entrega 3;Realizar evento FAMTOUR na região de Porto União e Irineópolis, para empresas participantes da região do projeto da Rota Encantos do Planalto Norte.;30/11/2025;Em andamento;
+48;João Novakoski;GRNO;GRNO - Turismo Regional Norte 2025;Entrega 1;Entregar o estudo preliminar das rotas de cicloturismo da região da Rota Encantos do Planalto Norte;15/12/2025;Em andamento;
+48;João Novakoski;GRNO;GRNO - Turismo Regional Norte 2025;Entrega 2;Realizar a entrega dos planos de melhoria dos empreendimentos turísticos participantes do projeto da Rota Encantos do Planalto Norte.;15/12/2025;Em andamento;
+49;Vanessa Valim Mendes;GRSE;GRSE - Fortalecimento das Indicações Geográficas da Serra Catarinense;Entrega 2;Apoio ao acesso a mercados por meio da participação de todas as Indicações Geográficas — Vinhos de Altitude, Maçã Fuji, Mel de Melato de Bracatinga e Queijo Serrano — no evento da ABRASEL, atuando como expositoras na Arena Sebrae, com oportunidade de apresentar e comercializar seus produtos ao público visitante, além da participação no jantar oficial do evento.;23/09/2025;Finalizado no Prazo;23/09/2025
+49;Vanessa Valim Mendes;GRSE;GRSE - Fortalecimento das Indicações Geográficas da Serra Catarinense;Entrega 3;Promoção e divulgação dos produtos IGs em diversos eventos durante o ano em parceria com Gerencia de Competitividade e eventos locais.;28/11/2025;Finalizado dentro do Prazo;23/09/2025
+49;Vanessa Valim Mendes;GRSE;GRSE - Fortalecimento das Indicações Geográficas da Serra Catarinense;Entrega 1;Consultoria junto a entidade proponente da Maçã Fuji de São Joaquim a AMAP para acompanhamento e consultoria quanto a acesso a mercado, Marketing e Vendas e gestão e fortalecimento da IG;15/12/2025;Em andamento;
+50;Vanessa Valim Mendes;GRSE;GRSE - Desenvolvimento nos Territórios - Vinhos de Altitude;Entrega 1;Participação na Vindima 2025 como ação estratégica do projeto Vinhos de Altitude, com presença de vinícolas associadas realizando degustações, experiências enoturísticas e comercialização direta. A iniciativa promoveu a marca coletiva, ampliou o acesso a mercados e fortaleceu o posicionamento dos vinhos catarinenses como produtos de alto valor agregado.;04/05/2025;Finalizado no Prazo;04/05/2025
+50;Vanessa Valim Mendes;GRSE;GRSE - Desenvolvimento nos Territórios - Vinhos de Altitude;Entrega 3;Realização do VII Simpósio Catarinense Vinhos de Altitude que tem por obejtivo fomentar a troca de conhecimentos e experiências entre profissionais da área, o simpósio oferece uma sequência de palestras e momento para a discussão e disseminação das melhores práticas e tendências do setor.;23/10/2025;Finalizado no Prazo;23/10/2025
+50;Vanessa Valim Mendes;GRSE;GRSE - Desenvolvimento nos Territórios - Vinhos de Altitude;Entrega 2;Ação de acesso a mercados por meio da participação de vinícolas associadas em feiras e eventos setoriais, promovendo seus rótulos, realizando degustações e vendas diretas, fortalecendo a marca coletiva e ampliando oportunidades comerciais e de relacionamento com novos públicos e compradores.;30/11/2025;Em andamento;23/10/2025
+51;Douglas Luís Três;GRGF;GRGF - Inovação em Saúde;Entrega 3;Participação no evento Health Meeting em Porto Alegre, com a participação de 18 Startups da área da Saúde - https://hmbrasilfeiras.com.br/;21/10/2025;Finalizado no Prazo;21/10/2025
+51;Douglas Luís Três;GRGF;GRGF - Inovação em Saúde;Entrega 1;Realização do SW Health;07/11/2025;Finalizado até 30 dias;09/11/2025
+51;Douglas Luís Três;GRGF;GRGF - Inovação em Saúde;Entrega 2;Paticipação no evento Summit Saúde 2025, com organização de mentorias e rodadas de negócios entre as empresas participantes - https://summitsaudesc.com/;07/11/2025;Finalizado dentro do Prazo;21/10/2025
+52;Douglas Luís Três;GRGF;GRGF - Inovação Territorial e Empreendedorismo Inovador – Florianópolis;Entrega 1;Realização do missão para o ELI Summit 2025 - https://elisummit.com.br/ - com participantes dos ecossistemas de inovação da Grande Florianópolis;04/11/2025;Finalizado até 30 dias;06/11/2025
+52;Douglas Luís Três;GRGF;GRGF - Inovação Territorial e Empreendedorismo Inovador – Florianópolis;Entrega 2;Realização de encontro de líderes de comunidades de inovação da Grande Florianópolis;08/11/2025;Finalizado dentro do Prazo;08/11/2025
+52;Douglas Luís Três;GRGF;GRGF - Inovação Territorial e Empreendedorismo Inovador – Florianópolis;Entrega 3;Realização do programa TXM Challenge em parceria com a Faculdade Anhanguera e o IFSC de São José.;05/12/2025;Em andamento;
+53;Daniela Dalfovo;GRNO;GRNO - Inovação Territorial e Empreendedorismo Inovador - Norte;Entrega 1;Realizar 2ª turma do programa JEDI em Joinville;21/11/2025;Finalizado no Prazo;21/11/2025
+53;Daniela Dalfovo;GRNO;GRNO - Inovação Territorial e Empreendedorismo Inovador - Norte;Entrega 2;Realizar Missão Empresarial imersiva em ambientes de inovação de SP;05/12/2025;Em andamento;
+53;Daniela Dalfovo;GRNO;GRNO - Inovação Territorial e Empreendedorismo Inovador - Norte;Entrega 3;Apresentar o CASE da Governança de Inovação de Joinville no evento ELI Summit e inscrever o ecossistema no prêmio PNI.;12/12/2025;Em andamento;
+54;Rene Luiz Anziliero;GROE;GROE - Inovação territorial e Empreendedorismo Inovador - Oeste;Entrega 1;Participação e organização de missão ao ELI SUMMIT 2025.;04/11/2025;Finalizado dentro do Prazo;08/11/2025
+54;Rene Luiz Anziliero;GROE;GROE - Inovação territorial e Empreendedorismo Inovador - Oeste;Entrega 3;Hackhton do comércio na cidade de Xanxerê.;27/11/2025;Em andamento;
+54;Rene Luiz Anziliero;GROE;GROE - Inovação territorial e Empreendedorismo Inovador - Oeste;Entrega 2;"Contrato com Prefeitura de Chapecó referente ao projeto de Inovação (Diagnóstico de startups; Rotas de inovação...).";08/12/2025;Em andamento;
+55;Fernanda Rosa;GRGF;GRGF - Fortalecimento do segmento de Alimentos e Bebidas da Grande Florianópolis;Entrega 1;Promover a qualificação de produtos das empresas participantes;15/12/2025;A fazer;
+55;Fernanda Rosa;GRGF;GRGF - Fortalecimento do segmento de Alimentos e Bebidas da Grande Florianópolis;Entrega 2;Concluir a execução dos contratos com os núcleos das mulheres das entidades e entrega das ações programadas.;15/12/2025;A fazer;
+55;Fernanda Rosa;GRGF;GRGF - Fortalecimento do segmento de Alimentos e Bebidas da Grande Florianópolis;Entrega 3;Concluir a primeira capacitação do Programa Mulheres SuperAgro com a JBS/Seara Alimentos 2025/2026.;15/12/2025;A fazer;
+56;Mariana Bonella Cunha;GRSE;GRSE - Sebrae Delas - Lages;Entrega 1;Missão Delas Summit;31/10/2025;Finalizado no Prazo;31/10/2025
+56;Mariana Bonella Cunha;GRSE;GRSE - Sebrae Delas - Lages;Entrega 2;Delas Day - Descomplicando as Finanças;18/11/2025;Finalizado no Prazo;18/11/2025
+56;Mariana Bonella Cunha;GRSE;GRSE - Sebrae Delas - Lages;Entrega 3;Palestra: construindo experiências emocionais para o público feminino (Urubici) e Workshop: Como estimular e exercitar sua criatividade (São Joaquim);27/11/2025;Finalizado no Prazo;27/11/2025
+57;Mariana Bonella Cunha;GRSE;GRSE - Agente de Roteiros Turísticos - São José do Cerrito;Entrega 1;Visita Técnica (Missão Jacinto Machado);18/11/2025;Em andamento;
+57;Mariana Bonella Cunha;GRSE;GRSE - Agente de Roteiros Turísticos - São José do Cerrito;Entrega 2;Finalização e Entrega da Revista;03/12/2025;Em andamento;
+57;Mariana Bonella Cunha;GRSE;GRSE - Agente de Roteiros Turísticos - São José do Cerrito;Entrega 3;Workshop de Fechamento;05/12/2025;Em andamento;
+58;Mariana Bonella Cunha;GRSE;GRSE - Agente de Roteiros Turísticos - Urupema;Entrega 3;Rel. de Gestão;28/11/2025;A fazer;
+58;Mariana Bonella Cunha;GRSE;GRSE - Agente de Roteiros Turísticos - Urupema;Entrega 1;Workshop / capacitação do trade;20/11/2025;Em andamento;
+58;Mariana Bonella Cunha;GRSE;GRSE - Agente de Roteiros Turísticos - Urupema;Entrega 2;Entrega do roteiro;05/12/2025;Em andamento;
+59;Mariana Bonella Cunha;GRSE;GRSE - DTI – Sustentabilidade no Turismo da Serra Catarinense;Entrega 2;Festuris;09/11/2025;Em andamento;
+59;Mariana Bonella Cunha;GRSE;GRSE - DTI – Sustentabilidade no Turismo da Serra Catarinense;Entrega 1;Finalização das consultorias do Selo;05/12/2025;Em andamento;
+59;Mariana Bonella Cunha;GRSE;GRSE - DTI – Sustentabilidade no Turismo da Serra Catarinense;Entrega 3;Entrega do roteiro do Cicloturismo;05/12/2025;Em andamento;
+60;Mariana Bonella Cunha;GRSE;GRSE - Sebrae Varejo - Serra;Entrega 3;Rel. de Gestão;28/11/2025;A fazer;
+60;Mariana Bonella Cunha;GRSE;GRSE - Sebrae Varejo - Serra;Entrega 1;Finalização das consultorias e planos de ação;14/11/2025;Em andamento;
+60;Mariana Bonella Cunha;GRSE;GRSE - Sebrae Varejo - Serra;Entrega 2;Mensuração final;28/11/2025;Em andamento;
+61;Alcides Filho;GRGF;GRGF - Calçados e Componentes;Entrega 2;Feira de calçados que vai acontecer de Janeiro/2026. - Compra de espaço para 31 empresas de caçados.;14/11/2025;Em andamento;
+61;Alcides Filho;GRGF;GRGF - Calçados e Componentes;Entrega 3;Entrega de Relatórios;30/11/2025;Em andamento;
+61;Alcides Filho;GRGF;GRGF - Calçados e Componentes;Entrega 1;Realização de de consultorias para 6 empresas;05/12/2025;Em andamento;
+62;Mariana Bonella Cunha;GRSE;GRSE - Inovação Territorial e Empreendedorismo Inovador - Lages;Entrega 1;SW Lages;09/11/2025;Em andamento;
+62;Mariana Bonella Cunha;GRSE;GRSE - Inovação Territorial e Empreendedorismo Inovador - Lages;Entrega 2;Órion Awards;05/12/2025;Em andamento;
+62;Mariana Bonella Cunha;GRSE;GRSE - Inovação Territorial e Empreendedorismo Inovador - Lages;Entrega 3;Grau de maturidade e encerramento ELI 2025;05/12/2025;Em andamento;
+63;Leandro Pereira da Silva;GROE;GROE - SC - Atendimento Territorial - Chapecó;Entrega 3;Capacitações do Natal;11/11/2025;Finalizado no Prazo;11/11/2025
+63;Leandro Pereira da Silva;GROE;GROE - SC - Atendimento Territorial - Chapecó;Entrega 1;Empretec Xaxim;17/11/2025;Em andamento;
+63;Leandro Pereira da Silva;GROE;GROE - SC - Atendimento Territorial - Chapecó;Entrega 2;Empretec Chapecó;24/11/2025;Em andamento;05/11/2025
+64;Fernanda Rosa;GRGF;GRGF - Sebrae Delas - Florianópolis;Entrega 1;Realizar o Encerramento do Delas Health com a prospecção da turma 2026;07/11/2025;Finalizado dentro do Prazo;07/11/2025
+64;Fernanda Rosa;GRGF;GRGF - Sebrae Delas - Florianópolis;Entrega 2;Realizar a primeira capacitação do Programa Mulheres SuperAgro com a JBS/Seara Alimentos (edição 2025/2026).;12/11/2025;A fazer;
+64;Fernanda Rosa;GRGF;GRGF - Sebrae Delas - Florianópolis;Entrega 3;Realizar o Delas Day Encerramento do Projeto, com apresentação dos resultados das participantes.;18/11/2025;A fazer;
+65;Fernanda Rosa;GRGF;GRGF - DTI - DESTINOS TURÍSTICOS INTELIGENTES;Entrega 1;Assinar o contrato com a Granfpolis para a execução da proposta do COLTUR.;14/11/2025;A fazer;
+65;Fernanda Rosa;GRGF;GRGF - DTI - DESTINOS TURÍSTICOS INTELIGENTES;Entrega 2;Realizar reunião de conclusão do projeto com a Secretaria de Paulo Lopes, om apresentação dos resultados das ações implementadas no município.;03/12/2025;A fazer;
+65;Fernanda Rosa;GRGF;GRGF - DTI - DESTINOS TURÍSTICOS INTELIGENTES;Entrega 3;Realizar o encontro do Projeto de Artesanato;15/12/2025;A fazer;
+66;Fernanda Rosa;GRGF;GRGF - Fortalecimento do segmento de Alimentos e Bebidas da Grande Florianópolis;Entrega 1;Iniciar a implantação do processo de Certificação Biosphere em empresas do setor de alimentos e bebidas, vinculadas ao contrato com a PMF (UNESCO);16/11/2025;Em andamento;
+66;Fernanda Rosa;GRGF;GRGF - Fortalecimento do segmento de Alimentos e Bebidas da Grande Florianópolis;Entrega 2;Concluir a entrega de Acesso a Mercado para as cervejarias realizando o evento Mundial Rock, previsto no contrato com a União Cervejeira;16/11/2025;Em andamento;
+66;Fernanda Rosa;GRGF;GRGF - Fortalecimento do segmento de Alimentos e Bebidas da Grande Florianópolis;Entrega 3;Realizar reunião com a ABRASEL para apresentação dos resultados alcançados em 2025 e aprovar a proposta para contrato 2026.;24/11/2025;A fazer;
+67;Zenilde Balsanelli;GRNO;GRNO - SC - Atendimento Territorial - Jaraguá do Sul;Entrega 3;PGA 2025 GRUPO EM BARRA VELHA;17/11/2025;A fazer;
+67;Zenilde Balsanelli;GRNO;GRNO - SC - Atendimento Territorial - Jaraguá do Sul;Entrega 2;Empretec - Corupá;30/11/2025;A fazer;
+67;Zenilde Balsanelli;GRNO;GRNO - SC - Atendimento Territorial - Jaraguá do Sul;Entrega 1;Feira de Negócios na cidade de Schroeder, 2 7 a 30 de novembro, 51 pequenos negócios em exposição.;26/11/2025;A fazer;
+68;Marcos Andrei Schwinden;GRE;GRE - Crédito e Finanças;Entrega 1;Implantar a segunda versão da Planejadora Sebrae;30/06/2025;Finalizado dentro do Prazo;30/06/2025
+68;Marcos Andrei Schwinden;GRE;GRE - Crédito e Finanças;Entrega 2;Realizar o primeiro Mutirão de Crédito e Finanças - Florianópolis/SC;24/09/2025;Finalizado dentro do Prazo;24/09/2025
+68;Marcos Andrei Schwinden;GRE;GRE - Crédito e Finanças;Entrega 3;Desenvolver Metodologia de Agentes de Crédito e Finanças;28/11/2025;Em andamento;
+69;Vagner Moreno;GRVA;GRVA - SC - Atendimento Territorial - Blumenau;Entrega 1;PROGRAMA IMPULSO - PARCERIA UNICRED;10/11/2025;Em andamento;
+69;Vagner Moreno;GRVA;GRVA - SC - Atendimento Territorial - Blumenau;Entrega 3;CURSO COM ARQUITETOS;24/11/2025;Em andamento;
+69;Vagner Moreno;GRVA;GRVA - SC - Atendimento Territorial - Blumenau;Entrega 2;EMPRETEC;01/12/2025;Em andamento;
+70;Nahyra Nara Santoro Javarini;GRSE;GRSE - Fortalecimento da Fruticultura da Serra Catarinense;Entrega 1;Realizar missão nacional com grupo de produtores rurais para conhecer CEAGESP, Mercado Público de SP e Feira The Brazil Conference & Expo.;07/08/2025;Finalizado no Prazo;07/08/2025
+70;Nahyra Nara Santoro Javarini;GRSE;GRSE - Fortalecimento da Fruticultura da Serra Catarinense;Entrega 2;Orientar produtores rurais da cadeia da maçã, sobre as normativas da legislação trabalhista rural (NR31 e acordo coletivo da categoria), a fim de reduzir situações de trabalho análogo à escravidão.;19/12/2025;Em andamento;
+70;Nahyra Nara Santoro Javarini;GRSE;GRSE - Fortalecimento da Fruticultura da Serra Catarinense;Entrega 3;Capacitar grupo de produtores rurais, da cadeia da maçã, sobre os 5Ss, de forma a aplicar na propriedade, melhorando assim a qualidade da limpeza e organização.;19/12/2025;Em andamento;
+71;Carlos Alberto Kinchescki Junior;GRGF;GRGF - SC - Atendimento Territorial - Florianópolis;Entrega 1;Realização da Capacitação;11/11/2025;Em andamento;
+71;Carlos Alberto Kinchescki Junior;GRGF;GRGF - SC - Atendimento Territorial - Florianópolis;Entrega 2;Implementação das Intervenções no Território;17/12/2025;A fazer;
+71;Carlos Alberto Kinchescki Junior;GRGF;GRGF - SC - Atendimento Territorial - Florianópolis;Entrega 3;Entrega do Relatório Final de Gestão e Monitoramento;17/12/2025;A fazer;
+72;Gabriel Marchetti de Oliveira;GCP;GCP - Programa Sebrae de Acesso a Mercados;Entrega 1;Piloto da nova metodologia de Rodada de Negócios;14/11/2025;Em andamento;
+72;Gabriel Marchetti de Oliveira;GCP;GCP - Programa Sebrae de Acesso a Mercados;Entrega 3;Relatório final da missão para o Chile;05/12/2025;Em andamento;
+72;Gabriel Marchetti de Oliveira;GCP;GCP - Programa Sebrae de Acesso a Mercados;Entrega 2;Escopo da metodologia de Experiência do cliente em Feiras e Eventos;12/12/2025;Em andamento;
+73;Carlos Douglas;GTI;Desenvolvimento e disponibilização da segunda versão da Ferramenta de Diagnósticos;Não informado;Não Informado;Não informado;Não informado;
+74;Carlos Douglas;GTI;Fundo de investimento em Projetos de TI;Não informado;Não Informado;Não informado;Não informado;
+75;Carlos Douglas;GTI;GTI - PDTI;Não informado;Não Informado;Não informado;Não informado;
+76;Carlos Douglas;GTI;LIS – Learning Intelligence System;Não informado;Não Informado;Não informado;Não informado;
+77;Carlos Douglas;GTI;SC - Conecta Tech;Não informado;Não Informado;Não informado;Não informado;
+78;Cristiane;GRH;GRH - Qualidade de Vida;Não informado;Não Informado;Não informado;Não informado;
+79;Karoline;GRH;GRH - Gestão do Clima Organizacional;Não informado;Não informado;Não informado;Não informado;
+80;Vanessa Nandi;GRH;GRH - Gestão do Desenvolvimento;Não informado;Não Informado;Não informado;Não informado;
+81;Juliana Barbosa;GRH;GRH - Gestão Estratégica de Pessoas;Entrega 1;Apresentação de resultados do ano;14/11/2025;Em andamento;
+82;Cristiane;GRH;GRH - Programa de Sucessão;Não informado;Não Informado;Não informado;Não informado;02/11/2025
+83;Silvia Carvalho;GIS;GIS - Jornada do Empreendedorismo Inovador - Crescimento;Entrega 1;Estruturar e implantar operações da incubadora Miditec GovTech no SEBRAEHUB;22/12/2025;Finalizado dentro do Prazo;30/04/2025
+83;Silvia Carvalho;GIS;GIS - Jornada do Empreendedorismo Inovador - Crescimento;Entrega 2;Consultoria especializada para a gestão da rede Miditec;30/12/2025;A fazer;
+83;Silvia Carvalho;GIS;GIS - Jornada do Empreendedorismo Inovador - Crescimento;Entrega 3;Contratar consultoria para Living Lab SEBRAEHUB;30/04/2025;Finalizado dentro do Prazo;30/04/2025
+84;Luciane Paes Scheuermann;GRFO;GRFO - MODA CATARINA - Foz;Entrega 1;Aquisição dos espaços nas feiras Pronegocio de Maio, Agosto e Novembro 2025;30/11/2025;A fazer;
+84;Luciane Paes Scheuermann;GRFO;GRFO - MODA CATARINA - Foz;Entrega 2;Cursos em gestão do grupo painel;05/11/2025;Finalizado dentro do Prazo;04/11/2025
+84;Luciane Paes Scheuermann;GRFO;GRFO - MODA CATARINA - Foz;Entrega 3;Consultoria de gestão do grupo painel;05/11/2025;Finalizado dentro do Prazo;04/11/2025
+85;Luciane Paes Scheuermann;GRFO;GRFO - SC - Atendimento Territorial - Itajaí;Entrega 1;Realizar consultorias Sebraetec com NPS de 80pts;31/12/2025;Em andamento;
+85;Luciane Paes Scheuermann;GRFO;GRFO - SC - Atendimento Territorial - Itajaí;Entrega 2;Realizar capacitação em gestão obtendo NPS de 80pts;31/12/2025;Em andamento;
+85;Luciane Paes Scheuermann;GRFO;GRFO - SC - Atendimento Territorial - Itajaí;Entrega 3;Realizar consultorias de Gestão obtendo obtendo NPS de 80pts;31/12/2025;Em andamento;
+86;Renata de Souza Araujo;GRH;GRH - Remuneração de Recursos Humanos (Relacionada a Negócios);Entrega 1;Elaborar relatórios da gestão de beneficios ;31/12/2025;Em andamento;
+86;Renata de Souza Araujo;GRH;GRH - Remuneração de Recursos Humanos (Relacionada a Negócios);Entrega 2;Elaborar relatórios da folha de pagamento;31/12/2025;Em andamento;
+86;Renata de Souza Araujo;GRH;GRH - Remuneração de Recursos Humanos (Relacionada a Negócios);Entrega 3;Elaborar relatórios de encargos sociais;31/12/2025;Em andamento;
+87;Alisson;GRMO;GRMO - Fortalecimento Alimentos e Bebidas na Região Meio Oeste;Entrega 1;relatório de Consultoria;05/12/2025;Em andamento;
+87;Alisson;GRMO;GRMO - Fortalecimento Alimentos e Bebidas na Região Meio Oeste;Entrega 2;relatório de Consultoria ;05/12/2025;Em andamento;
+87;Alisson;GRMO;GRMO - Fortalecimento Alimentos e Bebidas na Região Meio Oeste;Entrega 3;TFinal;05/12/2025;Em andamento;
+88;Lizandra;GRMO;GRMO - Fortalecimento da Agroindustrialização da Região do Meio Oeste;Entrega 1;consultorias da solução de mercado;01/12/2025;Em andamento;
+88;Lizandra;GRMO;GRMO - Fortalecimento da Agroindustrialização da Região do Meio Oeste;Entrega 2;Workshops no eixo V;01/12/2025;Em andamento;
+88;Lizandra;GRMO;GRMO - Fortalecimento da Agroindustrialização da Região do Meio Oeste;Entrega 3;Workshops no eixo V;01/12/2025;Em andamento;
+89;Alisson;GRMO;GRMO - Inovação Territorial e Empreendedorismo Inovador;Entrega 1;Falta os Concultores entregarem os documentos para prestação de contas e pagamentos;05/12/2025;Em andamento;
+89;Alisson;GRMO;GRMO - Inovação Territorial e Empreendedorismo Inovador;Entrega 2;Falta os Concultores entregarem os documentos para prestação de contas e pagamentos;05/12/2025;Em andamento;
+89;Alisson;GRMO;GRMO - Inovação Territorial e Empreendedorismo Inovador;Entrega 3;Falta os Concultores entregarem os documentos para prestação de contas e pagamentos;05/12/2025;Em andamento;
+90;Adriana Fiorin;GRMO;GRMO - SC - Atendimento Territorial - Joaçaba;Entrega 1;Realizar consultorias Sebraetec com NPS de 80pts;31/12/2025;A fazer;
+90;Adriana Fiorin;GRMO;GRMO - SC - Atendimento Territorial - Joaçaba;Entrega 2;Realizar capacitação em gestão obtendo NPS de 80pts;31/12/2025;A fazer;
+90;Adriana Fiorin;GRMO;GRMO - SC - Atendimento Territorial - Joaçaba;Entrega 3;Realizar consultorias de Gestão obtendo obtendo NPS de 80pts;31/12/2025;A fazer;
+91;Lori Pellizzaro;GRNO;GRNO - Desenvolvimento Agronegócio Regional Norte;Entrega 1;Certificação de Pequenos Negocios no SIM;30/07/2025;Finalizado dentro do Prazo;15/07/2025
+91;Lori Pellizzaro;GRNO;GRNO - Desenvolvimento Agronegócio Regional Norte;Entrega 2;Aprovar legislação SIM;15/06/2025;Finalizado dentro do Prazo;15/06/2025
+91;Lori Pellizzaro;GRNO;GRNO - Desenvolvimento Agronegócio Regional Norte;Entrega 3;Realizar consultorias tecnologicas ;28/11/2025;Finalizado dentro do Prazo;06/11/2025
+92;Joselita Tedesco;GROE;GROE - Desenvolvimento Cadeia do Leite - Chapecó;Entrega 1;Realizar consultorias tecnologicas ;30/12/2025;Em andamento;
+92;Joselita Tedesco;GROE;GROE - Desenvolvimento Cadeia do Leite - Chapecó;Entrega 2;Participação na feira ;06/10/2025;Não informado;
+92;Joselita Tedesco;GROE;GROE - Desenvolvimento Cadeia do Leite - Chapecó;Entrega 3;Contratar consultoria especializada;30/09/2025;Não Informado;
+93;Carine Ribeiro;GREO;GROE - Desenvolvimento Cadeia do Leite - SMO;Entrega 1;contratar consultoria tecnológica ;17/10/2025;Não Informado;
+93;Carine Ribeiro;GREO;GROE - Desenvolvimento Cadeia do Leite - SMO;Entrega 2;efetuar a venda da consultoria tecnológica para os 34 produtores;31/10/2025;Não Informado;
+93;Carine Ribeiro;GREO;GROE - Desenvolvimento Cadeia do Leite - SMO;Entrega 3;Participação na feira ;;Não Informado;
+94;Joselita Tedesco;GROE;GROE - Encadeamento Produtivo Aurora Coop;Entrega 1;Coletar indicador faturamento;28/11/2025;A fazer;
+94;Joselita Tedesco;GROE;GROE - Encadeamento Produtivo Aurora Coop;Entrega 2;Coletar indicador produtividade;28/11/2025;A fazer;
+94;Joselita Tedesco;GROE;GROE - Encadeamento Produtivo Aurora Coop;Entrega 3;Desempenho em relação a grande empresa para setor de leite (aumento de sólidos);28/11/2025;A fazer;
+95;Jordana;GRSU;GRSU - SC - Atendimento Territorial - Criciúma;Entrega 1;Realizar consultorias Sebraetec com NPS de 80pts;31/12/2025;Em andamento;
+95;Jordana;GRSU;GRSU - SC - Atendimento Territorial - Criciúma;Entrega 2;Realizar capacitação em gestão obtendo NPS de 80pts;31/12/2025;Em andamento;
+95;Jordana;GRSU;GRSU - SC - Atendimento Territorial - Criciúma;Entrega 3;Realizar consultorias de Gestão obtendo obtendo NPS de 80pts;31/12/2025;Em andamento;
+96;Ana Maria dos Santos;GRSU;GRSU - SC - Atendimento Territorial - Tubarão;Entrega 1;Realizar consultorias Sebraetec com NPS de 80pts;31/12/2025;Em andamento;
+96;Ana Maria dos Santos;GRSU;GRSU - SC - Atendimento Territorial - Tubarão;Entrega 2;Realizar consultorias de Gestão obtendo obtendo NPS de 80pts;31/12/2025;Em andamento;
+96;Ana Maria dos Santos;GRSU;GRSU - SC - Atendimento Territorial - Tubarão;Entrega 3;Realizar capacitação em gestão obtendo NPS de 80pts;31/12/2025;Em andamento;
+97;Jordana;GRSU;GRSU- Turismo Geoparque Caminhos dos Cânions;Entrega 1;Desenvolver ações para desenvolvimento do trade turístico, como capacitações previstas nos planos de ações dos GTs:;31/12/2025;Em andamento;
+97;Jordana;GRSU;GRSU- Turismo Geoparque Caminhos dos Cânions;Entrega 2;Formação estratégica do setor de turismo e SGS;31/12/2025;Em andamento;
+97;Jordana;GRSU;GRSU- Turismo Geoparque Caminhos dos Cânions;Entrega 3;Realizar ações de promoção comercial: participação em feiras, como WTM, Salão do Turismo, ABAv, FNA;31/12/2025;Em andamento;
+98;Ana Paula;GRVA;GRVA - Inovação Territorial e Empreendedorismo Inovador – Rio do Sul;Entrega 1;Implementar a Jornada do Empreendedorismo Inovador em xxx entidades/empresas;31/12/2025;Não Informado;
+98;Ana Paula;GRVA;GRVA - Inovação Territorial e Empreendedorismo Inovador – Rio do Sul;Entrega 2;Territórios ativados;31/12/2025;Não Informado;
+98;Ana Paula;GRVA;GRVA - Inovação Territorial e Empreendedorismo Inovador – Rio do Sul;Entrega 3;Territorios Ativados com Inovação;31/12/2025;Não Informado;
+99;Vagner Moreno;GRVA;GRVA - Moda Catarina - Blumenau e Rio do Sul;Entrega 1;Realizar consultorias tecnologicas ;19/12/2025;Em andamento;
+99;Vagner Moreno;GRVA;GRVA - Moda Catarina - Blumenau e Rio do Sul;Entrega 2;Participar da Missão xxxx;19/12/2025;Não informado;
+99;Vagner Moreno;GRVA;GRVA - Moda Catarina - Blumenau e Rio do Sul;Entrega 3;Realizar capacitação em gestão para o grupo painel do projeto;19/12/2025;Em andamento;
+100;Ana Paula;GRVA;GRVA - Projeto Agronegócio - Rio do Sul e Blumenau;Entrega 1;Participar da Missão xxxx;31/12/2025;Não Informado;
+100;Ana Paula;GRVA;GRVA - Projeto Agronegócio - Rio do Sul e Blumenau;Entrega 2;Realizar consultorias tecnologicas ;31/12/2025;Não Informado;
+100;Ana Paula;GRVA;GRVA - Projeto Agronegócio - Rio do Sul e Blumenau;Entrega 3;Realizar capacitação em gestão para o grupo painel do projeto;31/12/2025;Não Informado;
+101;Fernanda Luiza Becker;GRVA;GRVA - SC - Atendimento Territorial - Rio do Sul;Entrega 1;NPS 80%;31/12/2025;Em andamento;
+101;Fernanda Luiza Becker;GRVA;GRVA - SC - Atendimento Territorial - Rio do Sul;Entrega 2;Executar as demandas Sebraetec para execução de orçamento;19/12/2025;Em andamento;
+101;Fernanda Luiza Becker;GRVA;GRVA - SC - Atendimento Territorial - Rio do Sul;Entrega 3;Contratar consultorias especializadas dos programas de gestão da Viacredi e Cresol.;31/12/2025;Em andamento;
+102;Ivia Maily Santos de Oliveira;GRH;GRH - Gestão do Provimento;Entrega 1;Não Informado;;Não Informado;
+102;Ivia Maily Santos de Oliveira;GRH;GRH - Gestão do Provimento;Entrega 2;Pagamento bolsa estagiários;28/11/2025;Em andamento;
+102;Ivia Maily Santos de Oliveira;GRH;GRH - Gestão do Provimento;Entrega 3;Pagamento processos seletivos realizados (efetivos);28/11/2025;Em andamento;
+103;Cristiane Menezes Cruz;GRH;GRH - Qualidade de Vida;Entrega 1;Continuidade das ações de Saúde e Segurança no Sebrae/SC.;28/11/2025;Em andamento;
+103;Cristiane Menezes Cruz;GRH;GRH - Qualidade de Vida;Entrega 2;Continuidade das ações de Saúde e Segurança no Sebrae/SC.;12/12/2025;Em andamento;
+103;Cristiane Menezes Cruz;GRH;GRH - Qualidade de Vida;Entrega 3;Continuidade das ações de Saúde e Segurança no Sebrae/SC.;31/12/2025;Em andamento;04/11/2025
+104;Cristiane Menezes Cruz;GRH;Humanizar 2025_ Diversidade, Inclusão, Equidade e Pertencimento;Entrega 1;Delas Summit - Espaço Colaboradora;04/11/2025;Finalizado dentro do Prazo;
+104;Cristiane Menezes Cruz;GRH;Humanizar 2025_ Diversidade, Inclusão, Equidade e Pertencimento;Entrega 2;Palestra / Ação Dia da Consciência Negra;19/11/2025;Em andamento;
+104;Cristiane Menezes Cruz;GRH;Humanizar 2025_ Diversidade, Inclusão, Equidade e Pertencimento;Entrega 3;Relatórios finais;12/12/2025;Em andamento;
+105;Cristiane Menezes Cruz;GRH;SC - Humanizar 2025_Cultura;Entrega 1;Fechamento das ações Family Day (Sede e Regionais);21/11/2025;Em andamento;
+105;Cristiane Menezes Cruz;GRH;SC - Humanizar 2025_Cultura;Entrega 2;Relatórios finais;30/11/2025;Em andamento;
+105;Cristiane Menezes Cruz;GRH;SC - Humanizar 2025_Cultura;Entrega 3;Relatórios finais;30/12/2025;Em andamento;
+106;Cristiane Menezes Cruz;GRH;SC_SeA_Projeto Conhecimento & Ação (Mascara 01);Entrega 1;Término Programa de Mentorias;30/11/2025;Em andamento;
+106;Cristiane Menezes Cruz;GRH;SC_SeA_Projeto Conhecimento & Ação (Mascara 01);Entrega 2;Encerramento Programa de Lideranças;12/12/2025;Em andamento;
+106;Cristiane Menezes Cruz;GRH;SC_SeA_Projeto Conhecimento & Ação (Mascara 01);Entrega 3;Relatórios Finais;30/12/2025;Em andamento;
